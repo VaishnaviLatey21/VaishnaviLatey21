@@ -4,7 +4,6 @@
 
 <br />
 
-<img align="right" width="380" src="https://camo.githubusercontent.com/32bea61db336307bca418978f49f3f7636fd0f29c8bba518c42a8de952d265b7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353634302f66696c652f6f726967696e616c2d61326238326162383737396563653463343964663336373266373735336363622e676966">
 
 - 🎓 Master’s graduate in Cloud Computing from the **University of Leicester**
 
@@ -15,10 +14,11 @@
 - 🌱 Open to full-time opportunities in **DevOps, Cloud, Infrastructure, Platform Engineering and SRE**
 
 
-<br/>
+----
 
 <h2>🧰 DevOps Toolchain</h2>
 
+<img align="right" width="380" src="https://camo.githubusercontent.com/32bea61db336307bca418978f49f3f7636fd0f29c8bba518c42a8de952d265b7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353634302f66696c652f6f726967696e616c2d61326238326162383737396563653463343964663336373266373735336363622e676966">
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <p>
