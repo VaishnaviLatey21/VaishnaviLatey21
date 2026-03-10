@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" /> 
 </a> 
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-  <img src="[h[ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://img.icons8.com/?size=80&id=SzgQDfObXUbA&format=png)](https://img.icons8.com/office/40/github.png)" alt="github actions" width="40" height="40" /> 
+  <img src="https://img.icons8.com/office/40/github.png" alt="github actions" width="40" height="40" /> 
 </a> 
 <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/argo-cd.svg" alt="argo cd" width="40" height="40" /> 
