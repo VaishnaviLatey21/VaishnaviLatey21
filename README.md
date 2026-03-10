@@ -63,18 +63,28 @@
 
 ----
 
-<p style="display:flex; gap:12px;">
+<h2 align="left">🤝 Connect with me</h2>
+
+<p>
 <a href="mailto:your.email@example.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/vaishnavilatey21">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/vaishnavi-late">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-</p>
 
+&nbsp;&nbsp;&nbsp;
+<a href="https://devops-portfolio-vaishnavi.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+</p>
 
