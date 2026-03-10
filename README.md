@@ -17,7 +17,7 @@
 
 <h3>☁️ Cloud & Infrastructure</h3>
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform" />
 </p>
 
@@ -25,7 +25,7 @@
 
 <h3>🐳 Containers & Orchestration</h3>
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 <img height="48" src="https://helm.sh/img/helm.svg"/>
 </p>
@@ -34,7 +34,7 @@
 
 <h3>🔁 CI/CD & Automation</h3>
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,githubactions,jenkins" />
 <img height="48" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png"/>
 </p>
