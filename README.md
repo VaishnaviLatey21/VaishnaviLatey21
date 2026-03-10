@@ -59,8 +59,7 @@
 
 <h3>🖥️ Scripting & OS</h3>
 <p style="margin-top:6px;">
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,js,react,nodejs,go,postgres,mongodb"/>
 </p>
 
 
