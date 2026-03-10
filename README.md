@@ -11,7 +11,7 @@
 
 - 🌱 Open to full-time opportunities in **DevOps, Cloud, Infrastructure, Platform Engineering and SRE**
 
----
+<br />
 
 <h3>🧰 DevOps Toolchain</h3>
 <a href="https://terraform.io" target="_blank" rel="noreferrer"> 
