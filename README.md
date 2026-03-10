@@ -18,7 +18,7 @@
 <h3>☁️ Cloud & Infrastructure</h3>
 <br />
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> 
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="40" height="40" /> 
 </a> 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" /> 
@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" /> 
 </a> 
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github actions" width="40" height="40" /> 
+  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github actions" width="50" height="60" /> 
 </a> 
 <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/argo-cd.svg" alt="argo cd" width="40" height="40" /> 
