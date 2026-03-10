@@ -11,8 +11,7 @@
 
 - 🌱 Open to full-time opportunities in **DevOps, Cloud, Infrastructure, Platform Engineering and SRE**
 
-<h2>🧰 DevOps Toolchain</h2>
-<br />
+<h2 style="margin-top: 20px;">🧰 DevOps Toolchain</h2>
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <br />
@@ -41,7 +40,7 @@
 <h3>🔁 CI/CD & Automation</h3>
 <br />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-white.svg" alt="git" width="40" height="40" /> 
 </a> 
 <a href="https://jenkins.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" /> 
@@ -50,22 +49,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github actions" width="40" height="40" /> 
 </a> 
 <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/docs/assets/argo-icon-color.png" alt="argo cd" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/argo-cd.svg" alt="argo cd" width="40" height="40" /> 
 </a>
 
 <h3>📊 Observability & Monitoring</h3>
 <br />
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="prometheus" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/prometheus-1.svg" alt="prometheus" width="40" height="40" /> 
 </a> 
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="grafana" width="40" height="40" /> 
 </a> 
 <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Amazon_CloudWatch_logo.svg" alt="cloudwatch" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-cloudwatch-1.svg" alt="cloudwatch" width="40" height="40" /> 
 </a> 
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.datadoghq.com/static-assets/images/logos/datadog.svg" alt="datadog" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" alt="datadog" width="40" height="40" /> 
 </a>
 
 <h3>🔐 Security & DevSecOps</h3>
@@ -79,6 +78,15 @@
 <a href="https://www.twistlock.com/" target="_blank" rel="noreferrer"> 
   <img src="https://twistlock.com/wp-content/uploads/2020/03/twistlock-logo-color.svg" alt="twistlock" width="40" height="40" /> 
 </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" /> 
+</a>
+<a href="https://istio.io/" target="_blank" rel="noreferrer">
+  <img src="https://istio.io/latest/img/istio-logo.svg" alt="istio" width="40" height="40" />
+</a>
+<a href="https://karpenter.sh/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/awslabs/karpenter/main/docs/assets/karpenter-icon.png" alt="karpenter" width="40" height="40" />
+</a>
 
 <h3>🖥️ Scripting & OS</h3>
 <br />
@@ -86,7 +94,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> 
 </a> 
 <a href="https://linux.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
