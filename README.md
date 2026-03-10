@@ -59,7 +59,7 @@
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,postgres,mongodb"/>
 </p>
 
-<br/>
+----
 
 <h2 align="left">🤝 Connect with me</h2>
 
@@ -77,20 +77,4 @@
 </a>
 </p>
 
-<p>
-<a href="mailto:your.email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
 
-<a href="https://github.com/vaishnavilatey21">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/vaishnavi-late">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://devops-portfolio-vaishnavi.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-</p>
