@@ -11,9 +11,8 @@
 
 - 🌱 Open to full-time opportunities in **DevOps, Cloud, Infrastructure, Platform Engineering and SRE**
 
+<h2>🧰 DevOps Toolchain</h2>
 <br />
-
-<h3>🧰 DevOps Toolchain</h3>
 <a href="https://terraform.io" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /> 
 </a> 
@@ -27,9 +26,8 @@
   <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40" /> 
 </a>
 
----
-
 <h3>☁️ Cloud & Infrastructure</h3>
+<br />
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> 
 </a> 
@@ -43,9 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 </a>
 
----
-
 <h3>🐳 Containers & Orchestration</h3>
+<br />
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
 </a> 
@@ -56,9 +53,8 @@
   <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40" /> 
 </a> 
 
----
-
 <h3>🔁 CI/CD & Automation</h3>
+<br />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
 </a> 
@@ -72,9 +68,8 @@
   <img src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/docs/assets/argo-icon-color.png" alt="argo cd" width="40" height="40" /> 
 </a>
 
----
-
 <h3>📊 Observability & Monitoring</h3>
+<br />
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
   <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="prometheus" width="40" height="40" /> 
 </a> 
@@ -88,9 +83,8 @@
   <img src="https://www.datadoghq.com/static-assets/images/logos/datadog.svg" alt="datadog" width="40" height="40" /> 
 </a>
 
----
-
 <h3>🔐 Security & DevSecOps</h3>
+<br />
 <a href="https://www.openpolicyagent.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/open-policy-agent/logo/master/logo.png" alt="opa" width="40" height="40" /> 
 </a> 
@@ -101,9 +95,8 @@
   <img src="https://twistlock.com/wp-content/uploads/2020/03/twistlock-logo-color.svg" alt="twistlock" width="40" height="40" /> 
 </a>
 
----
-
 <h3>🗄️ Version Control & Collaboration</h3>
+<br />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
 </a> 
@@ -114,9 +107,8 @@
   <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="40" height="40" /> 
 </a>
 
----
-
 <h3>🖥️ Scripting & OS</h3>
+<br />
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
 </a> 
@@ -126,8 +118,6 @@
 <a href="https://linux.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 </a>
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
