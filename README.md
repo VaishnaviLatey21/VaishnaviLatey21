@@ -11,15 +11,12 @@
   <b style="font-size:18px; margin-left:8px;">Let's Connect:</b>
 </p>
 
-<p align="left" style="margin-top:8px;">
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener">
-    <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" style="margin-right:10px;" />
-  </a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/animated/gear.gif" alt="Animated Gear" width="30" style="vertical-align:middle; margin-right:8px;" />
+  <b style="font-size:18px;">Let's Connect:</b>
+</p>
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener">
     <img src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="LinkedIn" style="margin-right:10px;" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener">
-    <img src="https://cdn-icons-png.flaticon.com/32/733/733579.png" alt="X" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/yourusername" target="_blank" rel="noopener">
     <img src="https://cdn-icons-png.flaticon.com/32/733/733553.png" alt="GitHub" style="margin-right:10px;" />
@@ -27,6 +24,13 @@
   <a href="https://medium.com/@yourprofile" target="_blank" rel="noopener">
     <img src="https://cdn-icons-png.flaticon.com/32/5968/5968866.png" alt="Medium" />
   </a>
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/animated/gear.gif" alt="Animated Gear" width="30" style="vertical-align:middle; margin-right:8px;" />
+  <a href="mailto:your.email@example.com" target="_blank" rel="noopener">
+    <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email Icon" width="24" style="vertical-align:middle; margin-right:8px;" />
+  </a>
+  <b style="font-size:18px;">Let's Connect:</b>
+</p>
 </p>
 
 <!--
