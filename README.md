@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi🙋‍♀️, I'm Vaishnavi</h1>
-<h3 align="center" style="margin-bottom: 20px;">DevOps & Cloud Engineer | Automating Infrastructure | Building Reliable Systems</h3>
+<h3 align="center" style="margin-bottom: 15px;">DevOps & Cloud Engineer | Automating Infrastructure | Building Reliable Systems</h3>
 
 <br />
 
@@ -59,17 +59,38 @@
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,postgres,mongodb"/>
 </p>
 
+<br/>
 
+<h2 align="left">🤝 Connect with me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener" style="margin-right:15px;">
-    <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="32" height="32" />
-  </a>
-  <a href="https://github.com/vaishnavilatey21" target="_blank" rel="noopener" style="margin-right:15px;">
-    <img src="https://cdn-icons-png.flaticon.com/32/733/733553.png" alt="GitHub" width="32" height="32" />
-  </a>
-  <a href="https://linkedin.com/in/vaishnavi-late" target="_blank" rel="noopener">
-    <img src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="LinkedIn" width="32" height="32" />
-  </a>
+<p>
+<a href="mailto:your.email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/vaishnavilatey21">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/vaishnavi-late">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+<p>
+<a href="mailto:your.email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/vaishnavilatey21">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/vaishnavi-late">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://devops-portfolio-vaishnavi.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
 </p>
