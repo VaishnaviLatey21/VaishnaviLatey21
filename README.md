@@ -63,7 +63,7 @@
 
 ----
 
-<h2 align="left">🤝 Connect with me</h2>
+<h2 align="center">🤝 Connect with me</h2>
 
 <p>
 <a href="mailto:your.email@example.com">
@@ -79,3 +79,14 @@
 </a>
 </p>>
 
+<br/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavilatey21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavilatey21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
