@@ -1,4 +1,3 @@
-**VaishnaviLatey21/VaishnaviLatey21** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi🙋‍♀️, I'm Vaishnavi</h1>
 <h3 align="center" style="margin-bottom: 20px;">DevOps & Cloud Engineer | Automating Infrastructure | Building Reliable Systems</h3>
@@ -16,10 +15,7 @@
 <br /> <!-- Added space here -->
 
 <h2>🧰 DevOps Toolchain</h2>
-
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <p>
@@ -63,15 +59,7 @@
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,postgres,mongodb"/>
 </p>
 
-</td>
 
-<td width="35%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-</td>
-</tr>
-</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
