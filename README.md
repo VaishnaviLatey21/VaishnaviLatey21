@@ -11,7 +11,9 @@
 
 - 🌱 Open to full-time opportunities in **DevOps, Cloud, Infrastructure, Platform Engineering and SRE**
 
-<h2 style="margin-top: 20px;">🧰 DevOps Toolchain</h2>
+<br /> <!-- Added space here -->
+
+<h2>🧰 DevOps Toolchain</h2>
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <br />
