@@ -13,18 +13,6 @@
 
 <h2>🧰 DevOps Toolchain</h2>
 <br />
-<a href="https://terraform.io" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /> 
-</a> 
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" /> 
-</a> 
-<a href="https://kustomize.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/logo/logo.png" alt="kustomize" width="40" height="40" />
-</a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
-  <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40" /> 
-</a>
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <br />
@@ -34,12 +22,9 @@
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" /> 
 </a> 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" />
-</a>
-<a href="https://linux.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-</a>
+<a href="https://terraform.io" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /> 
+</a> 
 
 <h3>🐳 Containers & Orchestration</h3>
 <br />
@@ -93,18 +78,6 @@
 </a> 
 <a href="https://www.twistlock.com/" target="_blank" rel="noreferrer"> 
   <img src="https://twistlock.com/wp-content/uploads/2020/03/twistlock-logo-color.svg" alt="twistlock" width="40" height="40" /> 
-</a>
-
-<h3>🗄️ Version Control & Collaboration</h3>
-<br />
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
-</a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" /> 
-</a> 
-<a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="40" height="40" /> 
 </a>
 
 <h3>🖥️ Scripting & OS</h3>
