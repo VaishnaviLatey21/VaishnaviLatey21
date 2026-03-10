@@ -1,16 +1,10 @@
 ## Hi there 🙋‍♀️
 
-<!--
-**VaishnaviLatey21/VaishnaviLatey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 💻 DevOps & Cloud Engineer | Automating Infrastructure | Building Reliable Systems 
-- 🎓 Master’s graduate in Cloud Computing from the University of Leicester
-- 📫 Explore my work, projects and Portfolio here: Portfolio
-- 🔭 Interested in optimizing workflows, improving system reliability, and learning new DevOps tools
-- 🤝 Open to full-time opportunities in DevOps, Cloud, Infrastructure, Platform Engineering and SRE
-
+- 💻 DevOps & Cloud Engineer | Automating Infrastructure | Building Reliable Systems  
+- 🎓 Master’s graduate in Cloud Computing from the University of Leicester  
+- 📫 Explore my work, projects and Portfolio here: [Portfolio](https://devops-portfolio-vaishnavi.vercel.app/)  
+- 🔭 Interested in optimizing workflows, improving system reliability, and learning new DevOps tools  
+- 🤝 Open to full-time opportunities in DevOps, Cloud, Infrastructure, Platform Engineering and SRE  
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/32/1946/1946429.png" alt="Handshake" width="28" style="vertical-align:middle" />
@@ -35,4 +29,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!--
+**VaishnaviLatey21/VaishnaviLatey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+-->
