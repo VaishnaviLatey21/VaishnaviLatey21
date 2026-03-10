@@ -66,7 +66,7 @@
 <h2 align="left">🤝 Connect with me</h2>
 
 <p align="center">
-<a href="mailto:your.email@example.com">
+<a href="mailto:vaishnavi.late31@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" hspace="10"/>
 </a>
 
