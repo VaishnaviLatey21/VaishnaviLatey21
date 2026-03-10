@@ -16,6 +16,11 @@
 
 <h2>🧰 DevOps Toolchain</h2>
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <p>
