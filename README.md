@@ -64,17 +64,18 @@
 ----
 
 <h2 align="left">🤝 Connect with me</h2>
-<p style="display:flex; gap:42px;">
+
+<p>
 <a href="mailto:your.email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" hspace="10"/>
 </a>
 
 <a href="https://github.com/vaishnavilatey21">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" hspace="10"/>
 </a>
 
 <a href="https://linkedin.com/in/vaishnavi-late">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" hspace="10"/>
 </a>
-</p>
+</p>>
 
