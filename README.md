@@ -1,6 +1,9 @@
 <h1 align="center">Hi🙋‍♀️, I'm Vaishnavi</h1>
 <h3 align="center">DevOps & Cloud Engineer | Automating Infrastructure | Building Reliable Systems</h3>
 
+
+
+
 - 🎓 Master’s graduate in Cloud Computing from the **University of Leicester**
 
 - 📫 Explore my work, projects and Portfolio here: [Portfolio](https://devops-portfolio-vaishnavi.vercel.app/)
