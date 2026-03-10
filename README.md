@@ -79,15 +79,4 @@
 </a>
 </p>>
 
-<br/>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavilatey21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilatey21&theme=tokyonight&hide_border=true"/>
-</p>
-</p>
