@@ -63,15 +63,15 @@
 
 ----
 
-<h2 align="left">🤝 Connect with me</h2>
+<h2 style="margin-right:12px">🤝 Connect with me</h2>
 
 <p>
 <a href="mailto:vaishnavi.late31@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" style="margin-right:12px"/>
 </a>
 
 <a href="https://github.com/vaishnavilatey21">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" style="margin-right:12px"/>
 </a>
 
 <a href="https://linkedin.com/in/vaishnavi-late">
