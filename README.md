@@ -59,7 +59,12 @@
 
 <h3>🖥️ Scripting & OS</h3>
 <p style="margin-top:6px;">
-<img src="https://skillicons.dev/icons?i=python,bash,linux,js,react,nodejs,go,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,go"/>
+</p>
+
+<h3>🖥️ Languages & Databases</h3>
+<p style="margin-top:6px;">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,postgres,mongodb"/>
 </p>
 
 
